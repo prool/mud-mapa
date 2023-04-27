@@ -15,6 +15,6 @@ cat \*.wld > rooms.lst
 
 edit \*.cfg if You need
 
-./mudmapa > map.html
+./grafor > map.html
 
 Kharkiv, Ukraine, Anno Domini 2023
