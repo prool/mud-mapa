@@ -11,7 +11,7 @@
 #define NAMELEN 50
 #define MAXROOM 80000 // 66401 // 8000
 #define ESC 0x1B
-#define MAXINDEX 340000
+#define MAXINDEX 610000 // 340000
 #define MEGA_X 600 // 100 // 505
 #define MEGA_Y 1000 // 100 // 780
 #define MEGA_Z 110 // 102 // 15
